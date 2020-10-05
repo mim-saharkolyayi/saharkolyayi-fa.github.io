@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mim-saharkolyayi/saharkolyayi-fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###درمورد من
 
-### Markdown
+من سحر کلیایی هستم و در حال یادگیری زبان های طراحی وب هستم و علاقه زیادی به این کار دارم.
+من در دانشگاه بایام نور تحصیل می کنم و گرایش من مهندسی کامپیوتر است
+من تصمیم دارم دانش خود را در زمینه نرم افزار کامپیوتر گسترش دهم.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### اطلاعات شخصی
 
-```markdown
-Syntax highlighted code block
+- نام: سحر
+- نام خانوادگی: کلیایی
+- تاریخ تولد: 1399/02/18
+- وضعیت شغلی: خالی
+- وضعیت تاهل : مجرد
 
-# Header 1
-## Header 2
-### Header 3
+### مهارت ها
 
-- Bulleted
-- List
++ جاوا اسکریپت
++ HTML
++ CSS
++ Network +
 
-1. Numbered
-2. List
+### زبان
 
-**Bold** and _Italic_ and `Code` text
+- فارسی: کاملا روان
+- انگلیسی: ضعیف
 
-[Link](url) and ![Image](src)
-```
+### مجوزها و مجوزها
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- HTML طراحی وب: خودآموزی
+- CSS طراحی وب: خودآموزی
+- طراحی وب جاوا اسکریپت: خودآموزی
 
-### Jekyll Themes
+### تجربه کاری
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mim-saharkolyayi/saharkolyayi-fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- به مدت 1 سال مشاور و دبیر پایگاه داده املاک و مستغلات
 
-### Support or Contact
+### پروژه ها
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+هیچ چیزی
+
+### حسابهای دیگر
+
+هیچ چیزی
